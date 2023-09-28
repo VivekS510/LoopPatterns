@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopPatterns", "LoopPatterns.csproj", "{00DDE195-B104-4A08-BCE1-0F540C0C53D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00DDE195-B104-4A08-BCE1-0F540C0C53D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00DDE195-B104-4A08-BCE1-0F540C0C53D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00DDE195-B104-4A08-BCE1-0F540C0C53D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00DDE195-B104-4A08-BCE1-0F540C0C53D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CEDAB55-5C6B-43FE-9F03-4E67481DCAF3}
+	EndGlobalSection
+EndGlobal
